@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: #333333;
+}
+body {
+  margin: 0;
+  font-family: "markazi text", 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.container{
+  max-width: 1240px;
+  margin: auto;
+}
+.btn{
+  color: black;
+  padding: 14px 24px;
+  background-color: #f4ce14;
+  border: none;
+  border-radius: 16px;
+  font-size: 1rem; 
+  cursor: pointer;
+}
+
+
